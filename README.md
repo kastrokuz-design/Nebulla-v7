@@ -54,4 +54,15 @@ It launches Chrome in debug mode, auto-scrolls to the bottom to load all images,
 ### 🙏 Credits
 - Code & packaging: [ChatGPT](https://openai.com), Grok  
 - Adaptation & design: **kastrokuz-design**
+---
+
+## 📜 Changelog
+
+### 🇫🇷 Français
+- **v1.0 (2025-10-23)** : Première release publique.  
+  Inclut le lanceur Windows, le lanceur Python multiplateforme, le worker Selenium et la documentation.
+
+### 🇬🇧 English
+- **v1.0 (2025-10-23)** : First public release.  
+  Includes Windows launcher, cross-platform Python launcher, Selenium worker and documentation.
 
