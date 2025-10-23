@@ -1,13 +1,16 @@
 # 🚀 Nebulla v7 – ChatGPT Library Image Downloader  
 
 downloader
-gpt-library
 chatgpt
+gpt-library
 chatgpt-images
 selenium
 python
 automation
 chrome
+image-downloader
+chatgpt-downloader
+
 
 [![Latest Release](https://img.shields.io/github/v/release/kastrokuz-design/Nebulla-v7?style=for-the-badge)](https://github.com/kastrokuz-design/Nebulla-v7/releases/latest)
 ![License](https://img.shields.io/github/license/kastrokuz-design/Nebulla-v7?style=for-the-badge)
