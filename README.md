@@ -1,9 +1,24 @@
 # 🚀 Nebulla v7 – ChatGPT Library Image Downloader  
 
-**Nebulla v7** est un outil pour **télécharger automatiquement toutes les images de la Bibliothèque ChatGPT**.  
+downloader
+gpt-library
+chatgpt
+chatgpt-images
+selenium
+python
+automation
+chrome
+
+[![Latest Release](https://img.shields.io/github/v/release/kastrokuz-design/Nebulla-v7?style=for-the-badge)](https://github.com/kastrokuz-design/Nebulla-v7/releases/latest)
+![License](https://img.shields.io/github/license/kastrokuz-design/Nebulla-v7?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge)
+![Downloads](https://img.shields.io/github/downloads/kastrokuz-design/Nebulla-v7/total?style=for-the-badge)
+
+
+Nebulla v7 est un outil pour **télécharger automatiquement toutes les images** de la Bibliothèque ChatGPT.  
 Il ouvre Chrome en mode debug, scrolle automatiquement jusqu’en bas pour charger toutes les images, puis les télécharge une par une.  
 
-**Nebulla v7 is a tool to automatically download all images from your ChatGPT Library.**  
+Nebulla v7 is a tool to **automatically download all images** from your ChatGPT Library.  
 It launches Chrome in debug mode, auto-scrolls to the bottom to load all images, then downloads them one by one.  
 
 ---
@@ -31,3 +46,9 @@ It launches Chrome in debug mode, auto-scrolls to the bottom to load all images,
 - Modules Python / Python modules :  
   ```bash
   pip install selenium tqdm
+
+  ---
+### 🙏 Credits
+- Code & packaging: [ChatGPT](https://openai.com), Grok  
+- Adaptation & design: **kastrokuz-design**
+
